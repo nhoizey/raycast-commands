@@ -2,7 +2,7 @@
 
 # Required parameters:
 # @raycast.schemaVersion 1
-# @raycast.title New note
+# @raycast.title New note for nho.com
 # @raycast.mode silent
 
 # Optional parameters:

@@ -2,7 +2,7 @@
 
 # Required parameters:
 # @raycast.schemaVersion 1
-# @raycast.title Search on nicolas-hoizey.com
+# @raycast.title Search on nho.com
 # @raycast.mode silent
 
 # Optional parameters:
